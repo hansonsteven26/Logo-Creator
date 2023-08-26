@@ -6,7 +6,7 @@ inquirer
     .prompt([
         {
             type: "input",
-            message: "What is the text?!?",
+            message: "What is the text?",
             name: "inputText"
         },
         {
